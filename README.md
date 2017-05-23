@@ -1,12 +1,12 @@
 # socket-game-platform
 A Game Platform, for games that use mobile devices as remote controllers for the characters.
 
-![alt text](https://github.com/alejandroharb/socket-game-platform/public/img/instructional/pinataGame.png "Game View")
+![alt text](https://github.com/alejandroharb/socket-game-platform/blob/master/public/img/instructional/pinataGame.png "Game View")
 
 ## Mobile Phones as controllers
 
-![alt text](https://github.com/alejandroharb/socket-game-platform/public/img/instructional/phonePlayer1.png "Mobile View")
-![alt text](https://github.com/alejandroharb/socket-game-platform/public/img/instructional/phonePlayer2.png "Mobile View Player 2")
+![alt text](https://github.com/alejandroharb/socket-game-platform/blob/master/public/img/instructional/phonePlayer1.png "Mobile View")
+![alt text](https://github.com/alejandroharb/socket-game-platform/blob/master/public/img/instructional/phonePlayer2.png "Mobile View Player 2")
 
 Phone devices are synced with the game once a player joins a room.
 
